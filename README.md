@@ -1,6 +1,6 @@
 # npmtest-has
 
-#### test coverage for  [has (v1.0.1)](https://github.com/tarruda/has)  [![npm package](https://img.shields.io/npm/v/npmtest-has.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-has) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-has.svg)](https://travis-ci.org/npmtest/node-npmtest-has)
+#### basic test coverage for  [has (v1.0.1)](https://github.com/tarruda/has)  [![npm package](https://img.shields.io/npm/v/npmtest-has.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-has) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-has.svg)](https://travis-ci.org/npmtest/node-npmtest-has)
 
 #### Object.prototype.hasOwnProperty.call shortcut
 
